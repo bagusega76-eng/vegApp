@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "999493108787",
+    "project_id": "vegetables-app-57f84",
+    "storage_bucket": "vegetables-app-57f84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999493108787:android:6dc27bc33100a3c6dc8f46",
+        "android_client_info": {
+          "package_name": "com.example.vege_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999493108787-ifpgtf99lgd4ucptvgpod5kiv41jela6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vege_app",
+            "certificate_hash": "9c6f2d73a9e5b51f1aeceea53e7647e052adf548"
+          }
+        },
+        {
+          "client_id": "999493108787-ifpgtf99lgd4ucptvgpod5kiv41jela6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vege_app",
+            "certificate_hash": "221f6362416f19d68dfb6e5de2d050334508dc29"
+          }
+        },
+        {
+          "client_id": "999493108787-9c1nj8vd7isglonsu33bati390aj9kmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5c18xIJ0Hcn-D5uzSBceeHGISz40TgDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999493108787-9c1nj8vd7isglonsu33bati390aj9kmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999493108787-8dj9pq7fhogvrog5frplsvs1c33dmf8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vege_app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999493108787:android:6dc27bc33100a3c6dc8f46",
+        "android_client_info": {
+          "package_name": "com.example.vegetables_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999493108787-ifpgtf99lgd4ucptvgpod5kiv41jela6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegetables_app",
+            "certificate_hash": "221f6362416f19d68dfb6e5de2d050334508dc29"
+          }
+        },
+        {
+          "client_id": "999493108787-9c1nj8vd7isglonsu33bati390aj9kmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5c18xIJ0Hcn-D5uzSBceeHGISz40TgDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999493108787-9c1nj8vd7isglonsu33bati390aj9kmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999493108787-8dj9pq7fhogvrog5frplsvs1c33dmf8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vegetablesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
